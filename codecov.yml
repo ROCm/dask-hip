@@ -1,0 +1,3 @@
+#Configuration File for CodeCov
+ignore:
+  - "dask_cuda/benchmarks/*"  # benchmarks aren't covered
